@@ -10,3 +10,6 @@ This repository contains Jupyter Notebooks of my process, solutions, and reflect
 
 ### Neural Networks
 - [Neural Network From Scratch Titanic](https://github.com/Tuvshno/My-Machine-Learning-Notebooks/blob/main/Titanic%20Binary%20Classification/Titanic%20From%20Scratch.ipynb)
+
+### Random Forests
+- [Understanding Random Forests from Scratch](https://github.com/Tuvshno/My-Machine-Learning-Notebooks/blob/main/Titanic%20Binary%20Classification/Titanic%20Random%20Forests.ipynb)
